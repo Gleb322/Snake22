@@ -1,1 +1,6 @@
 D:\Snake22\Snake32232\bin\Debug\Snake32232.exe.config
+D:\Snake22\Snake32232\obj\Debug\Snake32232.csprojResolveAssemblyReference.cache
+D:\Snake22\Snake32232\bin\Debug\Snake32232.exe
+D:\Snake22\Snake32232\bin\Debug\Snake32232.pdb
+D:\Snake22\Snake32232\obj\Debug\Snake32232.exe
+D:\Snake22\Snake32232\obj\Debug\Snake32232.pdb
